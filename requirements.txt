@@ -1,0 +1,17 @@
+antiorm==1.2.1
+asgiref==3.3.1
+certifi==2020.12.5
+chardet==3.0.4
+db==0.1.1
+db-sqlite3==0.0.1
+Django==3.1.4
+django-crontab==0.7.1
+djangorestframework==3.12.2
+font-fredoka-one==0.0.4
+fonts==0.0.3
+idna==2.10
+Pillow==8.0.1
+pytz==2020.4
+requests==2.25.0
+sqlparse==0.4.1
+urllib3==1.26.2
